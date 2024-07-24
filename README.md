@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Luan</h1>
-<h3 align="center">Meu primeiro contato com desenvolvimento de software foi em 2015 com C++ onde fazia o projeto de automatização de maquinas industriais. Mas destino meu levou para outros caminhos e tive que dar uma pausa no sonho. Agora em 2023 voltando com sede de aprender 👋</h3>
+<h3 align="center">Sou um profissional da área de Ciência de Dados 👋</h3>
 
 <img align="right" alt="programando" width ="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
